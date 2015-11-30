@@ -1,0 +1,28 @@
+name: Poetry
+favicon: null
+layout_spectrum: 0.3372382456436753
+typography_spectrum: 0.32066853367723525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5772959671448916
+  lightness: 0.8322153952904046
+  saturation: 0.21387721877545118
+  rhythmicContrast: 0.2271700508426875
+purpose: []
